@@ -18,6 +18,7 @@ I'll add you within 24 hours. Or I'll do my best. Life happens.
 
 To enable the badge:
 
+0. Click the link in the email you'll receive from GitHub asking you if you'd like to join the organization
 1. Go to the [eu organization](https://github.com/eu)
 2. Click "People"
 3. Search for your name in the list
