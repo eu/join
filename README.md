@@ -30,3 +30,5 @@ That's it! You'll now have the icon displayed on your GitHub profile.
 ---
 
 Any questions? Just [open an issue](https://github.com/eu/join/issues).
+
+> This organization has no relation with the European Union. This is just done by some guy who happens to have the username. (>_<)
