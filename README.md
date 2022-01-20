@@ -9,10 +9,11 @@ Would you like an EU badge on your GitHub profile?
 
 The "badge" is nothing more than a label that you're a part of the `eu` team. To join the team:
 
-1. [Fork `list.txt`](https://github.com/eu/join/edit/master/list.txt) and add your username to the bottom of the file
-2. Propose the file change
+1. Open an issue [here](https://github.com/eu/join/issues). Please title it "Join" or something similar.
+2. Add the "join" label by clicking the gear next to "Labels" on the right side of the page.
+3. Open the issue!
 
-I'll merge it and add you within 24 hours. Or I'll do my best. Life happens.
+I'll add the user who opened the issue to @eu within a few days.
 
 ## Enabling the badge
 
