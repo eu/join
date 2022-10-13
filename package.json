@@ -4,6 +4,8 @@
   "description": "Get an EU badge on your GitHub profile",
   "main": "index.js",
   "scripts": {
+    "build": "tsc",
+    "start": "node dist/action.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
