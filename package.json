@@ -1,0 +1,30 @@
+{
+  "name": "eu-join-action",
+  "version": "0.0.0",
+  "description": "Get an EU badge on your GitHub profile",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/action.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnandChowdhary/eu-join-action.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnandChowdhary/eu-join-action/issues"
+  },
+  "homepage": "https://github.com/AnandChowdhary/eu-join-action#readme",
+  "dependencies": {
+    "@actions/core": "^1.10.0",
+    "@actions/github": "^5.1.1"
+  },
+  "devDependencies": {
+    "@types/node": "^18.8.5",
+    "typescript": "^4.8.4"
+  }
+}
